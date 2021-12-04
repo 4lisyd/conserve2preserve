@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to C2P - Conserve2Preserve
 
-You can use the [editor on GitHub](https://github.com/4lisyd/conserve2preserve/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/4lisyd/conserve2preserve/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ -->
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ -->
+### Our Goal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+xyz yzxzxhjcsdfj sdfjsk dlfj lsjf sfsfdhksf. (our goal)
 ```markdown
 Syntax highlighted code block
 
